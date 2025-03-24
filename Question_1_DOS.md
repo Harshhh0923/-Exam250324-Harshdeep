@@ -1,4 +1,7 @@
-##  a DOS command window. 
+ <DIR>          Pictures
+01/14/2025  09:23 AM    <DIR>          Saved Games
+01/15/2025  11:48 AM    <DIR>          Searches
+03/24/2025  02:17 PM                18##  a DOS command window. 
 
 
 C:\Users\IT25janHH>dir
@@ -23,10 +26,7 @@ C:\Users\IT25janHH>dir
 01/14/2025  09:23 AM    <DIR>          Music
 03/24/2025  02:17 PM                11 one.txt
 01/15/2025  09:29 AM    <DIR>          OneDrive
-02/27/2025  10:55 AM    <DIR>          Pictures
-01/14/2025  09:23 AM    <DIR>          Saved Games
-01/15/2025  11:48 AM    <DIR>          Searches
-03/24/2025  02:17 PM                18 seven.txt
+02/27/2025  10:55 AM    seven.txt
 03/24/2025  02:16 PM                13 seven.txtdir
 03/24/2025  02:17 PM                11 six.txt
 03/24/2025  02:17 PM                13 three.txt
