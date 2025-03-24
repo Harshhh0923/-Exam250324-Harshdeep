@@ -16,5 +16,7 @@ on this website there is a categories of different types of problem in a diifere
 ## Link:(https://www.reddit.com/r/msp/comments/k0d1t9/troubleshooting_ideas_for_user_reported_slow_pc/) 
 
 ## 3 website 
-spice work 
+spicework 
+this website is free of cost here we can learn some concepts about problem solving skills regarding computer 
+
 link  : (https://community.spiceworks.com/t/very-slow-pcs-for-handful-of-users/688330) 
