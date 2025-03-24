@@ -12,7 +12,8 @@ Question 1 :     Studying the DOS   dir command
    this website also explain about remakrs 
   ## link (https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir) 
  # There is a another website which is How To Geek 
-    This website explain about the commanmd dir more precisely and have some expamles with Screenshots . Downside of this website is there is a alot of add video.
-  (https://www.howtogeek.com/363639/how-to-use-the-dir-command-in-windows)
+   This website explain about the commanmd dir more precisely and have some expamles with Screenshots . Downside of this website is there is a alot of add video.
+
+  Link ; (https://www.howtogeek.com/363639/how-to-use-the-dir-command-in-windows)
   
  
